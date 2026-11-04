@@ -1,7 +1,0 @@
-paso,detalle
-Finanzas,"películas con budget y revenue ≥ US$10.000: 3,492 de 16,000; ROI = revenue/budget"
-Finanzas,"rango_presupuesto y exito_bajo_presupuesto (presupuesto ≤ Q1 = US$6,000,000 y ROI ≥ 3)"
-Valoración,vote_average_valida (nulo si 0 votos); ranking_confiable = ≥ 50 votos
-Categóricas,"genero/director/pais_principal = primer valor de la lista; nulos -> ""Sin dato"" (visible como cobertura en el dashboard)"
-Derivadas,"idioma, pais_iso, decada, periodo, fecha"
-Long,"generos 65,900 · paises 37,636 · directores 24,768 · actores 140,394 filas"
